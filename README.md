@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Bhanu Chandra
 
-<!--
-**Bhanu2005-coder/Bhanu2005-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech CSE (IoT) Student
+- ☕ Java Developer
+- 📚 Strong in DSA, OOP, DBMS
+- ☁️ AWS (EC2, S3) & DevOps Enthusiast
+- 🔧 Docker, Jenkins, SonarQube, Nexus, Maven
+- 📈 250+ LeetCode Problems Solved
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Java | Python | SQL | JavaScript
+Git | GitHub | Docker | Jenkins
+AWS | Linux | Maven | SonarQube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### CI/CD Pipeline for Java Web Application
+- Jenkins + Maven + SonarQube + Nexus + Docker + AWS EC2
+
+### Blind Stick with GPS Tracking
+- Arduino, GPS, Ultrasonic Sensors
+
+### Flood Detection System
+- NodeMCU, Blynk, IoT
+
+## 📫 Connect With Me
+- LinkedIn: Your LinkedIn Link
+- LeetCode: Your LeetCode Link
+- Email: mankalabhanuchandra@gmail.com

@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 Java | Python | SQL | JavaScript
 Git | GitHub | Docker | Jenkins
-AWS | Linux | Maven | SonarQube
+AWS | Linux | Maven | SonarQube|React(Basics)|Node.js(Basics)
 
 ## 🚀 Projects
 ### CI/CD Pipeline for Java Web Application
